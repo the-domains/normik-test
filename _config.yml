@@ -1,0 +1,14 @@
+layout_spectrum: 0.5809834606479853
+typography_spectrum: 0.2622057774569839
+color:
+  brandStrength: 0.4775008715223521
+  lightness: 0.2760834111832082
+  saturation: 0.8045640736818314
+  rhythmicContrast: 0.11553796310909092
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+name: normik test
